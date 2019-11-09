@@ -13,3 +13,7 @@
 + Q8: Completed
 + Q9: Completed
 + Q10: Completed
+
+# 10/11/2019
+- Second Commit
++ Q7: Completed
